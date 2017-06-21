@@ -1,0 +1,41 @@
+#ultrasound-bg {
+    background-color: #000000;
+    background-position: center;
+}
+
+#heartbeat{
+  background-image: url('img/heartbeat.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#header-anim {
+  background-image: url('img/wind_trees.gif');
+}
+
+
+.us-img {
+  padding-bottom: 15px;
+}
+
+.img-caption {
+  text-align: center;
+}
+
+.hb-intro {
+  text-align: center;
+  color: #fed136;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.audioCenter{
+  margin: 10px auto; width: 320px;
+}
+
+.sub-text{
+  text-align: center;
+  color: #fed136;
+  font-size: 16px;
+}
