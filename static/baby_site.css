@@ -17,6 +17,12 @@
   background-image: url('img/vaders_little_princess.jpg')
 }
 
+#registry {
+  background-image: url('img/3-5-years.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
 
 .us-img {
   padding-bottom: 15px;
