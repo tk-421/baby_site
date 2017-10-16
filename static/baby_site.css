@@ -18,7 +18,8 @@
 }
 
 #registry {
-  background-image: url('img/3-5-years.jpg');
+  /*background-image: url('img/3-5-years.jpg');*/
+  background-color: #000000;
   background-repeat: no-repeat;
   background-size: auto;
 }
